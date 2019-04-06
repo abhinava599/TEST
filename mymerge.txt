@@ -1,1 +1,1 @@
-nmerge
+mynmerge
