@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mynmerge
+=======
+ddddddnmerge
+>>>>>>> 38bcb363181d397ce2c4392101f579a24a20e3a2
